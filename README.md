@@ -1,5 +1,5 @@
 ## You can check the project here
-[https://solana-nft-minter-three.vercel.app/]
+[NFT-Minter](https://solana-nft-minter-three.vercel.app/)
 
 ## Getting Started
 
